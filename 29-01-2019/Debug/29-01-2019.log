@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ionut\source\repos\29-01-2019\29-01-2019\source.cpp(149): warning C4101: 'aux': unreferenced local variable
+c:\users\ionut\source\repos\29-01-2019\29-01-2019\source.cpp(231): warning C4101: 'nrb': unreferenced local variable
+c:\users\ionut\source\repos\29-01-2019\29-01-2019\source.cpp(71): warning C4715: 'gasire_block_all': not all control paths return a value
+  29-01-2019.vcxproj -> C:\Users\IONUT\source\repos\29-01-2019\Debug\29-01-2019.exe
